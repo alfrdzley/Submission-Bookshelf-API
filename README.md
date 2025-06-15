@@ -19,7 +19,7 @@ A simple RESTful API for managing a collection of books, built with Node.js and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/alfrdzley/Submission-Bookshelf-API/new/main?filename=README.md
+git clone https://github.com/alfrdzley/Submission-Bookshelf-API/
 ```
 2. Install Dependencies
 ```bash
